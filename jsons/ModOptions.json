@@ -1,1 +1,6 @@
-{"isBaseRuleset":true}
+{
+"isBaseRuleset":true, 
+  "constants":{
+    "naturalWonderCountAddedConstant":14,
+  }
+}
